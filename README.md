@@ -1,6 +1,6 @@
 # AmOs Linux Software
 
-What to do after the installation of the latest version of AmOs Linux, or any other arch based distro?
+What to do after the installation of the latest version of AmOs Linux, or any other arch based distro !!
 
 Personally I will install these applications with the use of the scripts.
 These are applications not everyone would want on an iso.
