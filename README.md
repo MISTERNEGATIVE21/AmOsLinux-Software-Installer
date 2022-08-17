@@ -1,4 +1,4 @@
-# AmOs Linux Nemesis
+# AmOs Linux Software
 
 What to do after the installation of the latest version of AmOs Linux, or any arch based distro?
 
