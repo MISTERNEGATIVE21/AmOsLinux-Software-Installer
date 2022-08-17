@@ -56,9 +56,9 @@ sh 10-fix-telegram*
 sh 11-autostart-applications*
 sh 12-btrfs-setup*
 sh 13-install-all-fonts-needed-for-conkys*
-sh 16-arco*
-sh 17-eos*
-sh 16-amos*
+sh 16-amoslinux*
+sh 17-arco*
+sh 18-eos*
 sh 19-skel*
 # change shell to zsh
 sudo chsh $USER -s /bin/zsh
