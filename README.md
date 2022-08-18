@@ -1,4 +1,4 @@
-# AmOs Linux Software
+# AmOs Linux Software Installer
 
 What to do after the installation of the latest version of AmOs Linux, or any other arch based distro !!
 
