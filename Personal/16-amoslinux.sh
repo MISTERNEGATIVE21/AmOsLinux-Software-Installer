@@ -18,7 +18,7 @@ installed_dir=$(dirname $(readlink -f $(basename `pwd`)))
 		cp $installed_dir/settings/amoslinux/whiskermenu-1.rc ~/.config/xfce4/panel/whiskermenu-1.rc
 		sudo cp $installed_dir/settings/amoslinux/whiskermenu-1.rc /etc/skel/.config/xfce4/panel/whiskermenu-1.rc
 		
-		cp $installed_dir/settings/amos/.face ~/.face
+		cp $installed_dir/settings/amoslinux/.face ~/.face
 		sudo cp $installed_dir/settings/amoslinux/.face /etc/skel/.face
 
 		
