@@ -4,7 +4,7 @@ What to do after the installation of the latest version of AmOs Linux, or any ot
 
 Personally I will install these applications with the use of the scripts.
 These are applications not everyone would want on an iso.
-Get all the theming from AmOsLinux on xfce amd bspwm!
+Get all the theming from AmOsLinux on xfce,i3wm and bspwm!
 If you dont want some things just put a hashtag '#' infront.  
 
 Also you can install AmOsLinux tiling wm's like bspwm and i3 and cinnamon-desktop
