@@ -37,7 +37,7 @@ sh 4-software-AUR-repo*
 sh 5-mpd-ncmpcpp*
 #sh 9-install-cinnamon*
 #sh install-archlinux-tweak-tool-dev*
-
+sh 11-install-i3.sh*
 echo
 tput setaf 2
 echo "################################################################"
